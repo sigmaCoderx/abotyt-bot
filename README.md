@@ -30,7 +30,7 @@ API_HASH=
 BOT_TOKEN=            # from @BotFather
 OWNER_ID=             # your numeric Telegram user id — always bypasses force-join
 
-MONGODB_URI=mongodb://localhost:27017/abotyt
+MONGODB_URI=mongodb: #atlas(get string connection from mongodb.com)
 MONGO_DB_NAME=abotyt  # required if MONGODB_URI has no db name in it (e.g. Atlas SRV URIs)
 
 CACHE_CHANNEL_ID=     # -100xxxxxxxxxx
