@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AbotYT — YouTube Downloader Telegram Bot
 
 Node.js + TypeScript. GramJS (MTProto) for Telegram, `youtube-dl-exec` (yt-dlp) for
