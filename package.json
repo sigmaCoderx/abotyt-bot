@@ -1,0 +1,27 @@
+{
+  "name": "abotyt",
+  "version": "1.0.0",
+  "description": "Telegram YouTube audio/video/thumbnail downloader bot (GramJS + youtube-dl-exec + MongoDB cache)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "big-integer": "^1.6.52",
+    "dotenv": "^17.4.2",
+    "mongodb": "^6.10.0",
+    "telegram": "^2.26.22",
+    "youtube-dl-exec": "^3.1.15"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
