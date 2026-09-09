@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AbotYT — YouTube Downloader Telegram Bot
 
 Node.js + TypeScript. GramJS (MTProto) for Telegram, `youtube-dl-exec` (yt-dlp) for
@@ -171,3 +172,7 @@ after downloading/converting, before anything is uploaded to Telegram.
   or after a permanent failure — nothing accumulates on disk.
 - The playlist range can be picked from the inline buttons **or** typed directly as
   plain text (`2-5`, `1-9`, `all`) right after the playlist is detected.
+=======
+# nodeyt-dlbot
+This is feature rich mtproto based youtube media downloader audio,video,playlist,short  and built using  gramJs.
+>>>>>>> origin/main
