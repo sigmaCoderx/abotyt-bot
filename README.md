@@ -22,11 +22,7 @@ This installs: `dotenv`, `mongodb`, `telegram` (GramJS), `youtube-dl-exec`, plus
 
 ## 3. Configure environment
 
-Copy `.env.example` to `.env` and fill it in:
-
-```bash
-cp .env.example .env
-```
+Configure `.env` and fill it in:
 
 ```env
 API_ID=              # from https://my.telegram.org
